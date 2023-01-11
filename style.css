@@ -6,11 +6,11 @@
 }
 header{
     background-color: #D5D2D2;
-    padding: 15px 25px;
+    padding: 15px 0;
 }
 .nav-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .logo-container{
     display: flex;
@@ -39,5 +39,5 @@ header{
 }
 .item a{
     text-decoration: none; 
-    
+    color: cadetblue;
 }
